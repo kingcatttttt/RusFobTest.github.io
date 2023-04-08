@@ -1,0 +1,82 @@
+/* header */
+header {
+    background-color: black;
+    max-height: 350px;
+}
+.headerImg {
+    height: 360px;
+    width: 1292px;
+}
+.a1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-200px);
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+
+}
+
+
+/* herors */
+
+.heroes {
+   display: inline-block;
+
+}
+.bandera {
+    background-color: white;
+    width: 280px;
+    height: 420px;
+    border-radius: 3px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.imgHeroes {
+    width: 280px;
+    height: 370px;
+}
+h2 {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.shy {
+    background-color: white;
+    width: 280px;
+    height: 420px;
+    border-radius: 3px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.ked {
+    background-color: white;
+    width: 280px;
+    height: 420px;
+    border-radius: 3px;
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+}
+.mel {
+    background-color: white;
+    width: 280px;
+    height: 420px;
+    border-radius: 3px;
+    display: inline-block;
+    margin: 20px;
+}
+body {
+    border-radius: 3px;
+    background-color: black;
+    position: absolute;
+}
+h3 {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
